@@ -30,4 +30,14 @@ EVENTS = [
         'category': 'Technical',
         'description': 'Discuss how small web systems can be deployed and operated.',
     },
+        {
+        'id': 'open-day',
+        'title': 'Open Day',
+        'date': '2026-11-20',
+        'time': '09:00',
+        'location': 'Waterside Campus, Floor 0',
+        'capacity': 200,
+        'category': 'Information',
+        'description': 'Open Day event for prospective students.',
+    },
 ]
